@@ -38,3 +38,22 @@ The attack can be done from *(r_q, c_q)* start position to any square in any of 
 - *c_q*: the column number of the start position.
 
 [Count Steps](solutions/countSteps.cs)
+
+### Sherlock and Array:
+Find an element of the array such that the sum of all elements to the left is equal to the sum of all elements to the right.
+Return string: either YES or NO
+
+<img src="solutions/balanced-sums.jpg" alt="Balanced Sums" width="400"/>
+
+### Strange Counter:
+At the first second, it displays the number.
+Each second, the number displayed by decrements by *1* until it reaches *1*.
+In next second, the timer resets to *2 X initial number for prior cycle* and continues counting down.
+Return the value displayed at time *t*
+
+<img src="solutions/strange-counter.jpg" alt="Strange Counter" width="400"/>
+
+### Pairs:
+Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.
+
+<img src="solutions/pairs.jpg" alt="Pairs" width="400"/>
