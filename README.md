@@ -57,3 +57,9 @@ Return the value displayed at time *t*
 Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value.
 
 <img src="solutions/pairs.jpg" alt="Pairs" width="400"/>
+
+### Rotate Buttons:
+Create nine buttons enclosed in a div, laid out so they form a *3 X 3* grid.
+Each button has a distinct label from *1* to *9*, and the labels on the outer buttons must rotate in the clockwise direction each time we click the middle button.
+
+<img src="solutions/rotate-buttons.jpg" alt="Rotate Buttons" width="400"/>
